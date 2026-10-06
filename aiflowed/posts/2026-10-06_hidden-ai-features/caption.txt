@@ -1,0 +1,16 @@
+Most people use ChatGPT and Claude like a blank search box. Then they wonder why every answer sounds generic.
+
+5 features that fix that:
+• Custom instructions: tell the AI how you work, once
+• Projects: one workspace per client or job
+• Memory: review it, delete what is outdated
+• Search: find that great old answer in seconds
+• File uploads: summaries, risks, task lists
+
+Quick rule: instructions = what you write. Memory = what the AI writes. Projects = where it stays separate per job.
+
+Feature names vary by app, so check your settings.
+
+Save this before you forget it. Follow @aiflowed for daily AI workflows.
+
+#aitools #aitips #aiproductivity #productivity #entrepreneur

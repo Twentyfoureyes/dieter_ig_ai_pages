@@ -1,0 +1,13 @@
+Stop writing the same email twice. Build a reply library instead.
+
+How:
+1. Paste 3 of your best emails into your AI (remove names and private info first)
+2. Ask: "Describe my writing style in 5 rules."
+3. Save the result as your style prompt
+4. Reuse it: style prompt + incoming email + "Reply in 3 sentences."
+
+Always read the draft before you send it.
+
+Follow @aiflowed for Part 2: the prompt that sorts your inbox.
+
+#aiworkflow #aiproductivity #aitips #entrepreneur #productivity
