@@ -1,0 +1,12 @@
+Your inbox is not a to-do list. Stop answering emails in the order they arrive.
+
+Part 2 of the email series: let AI sort first, then you write only what matters.
+
+Paste your last 20 emails into this prompt:
+"Here are my last 20 emails. Sort them into: Reply today, Reply this week, Delegate, Ignore. For each 'Reply today', give a one-line reason and a draft reply in my style. Ask me if anything is unclear."
+
+Remove names, numbers and private details before you paste. Always read the draft before you send it.
+
+Send this to someone with 300 unread emails.
+
+#aiworkflow #aiproductivity #aitips #entrepreneur #productivity
