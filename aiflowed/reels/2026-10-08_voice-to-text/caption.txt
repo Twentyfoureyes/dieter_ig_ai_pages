@@ -1,0 +1,12 @@
+Typing is the slowest part of writing with AI.
+
+Talk for a minute. Paste the transcript. Use this prompt:
+"Turn this messy voice note into a clear email. Keep my tone. Ask me if anything is unclear."
+
+Swap "email" for post or action plan and it works the same way.
+
+Remove private details before you paste, and always read the draft before you send it.
+
+What would you dictate first: an email, a post or a plan?
+
+#aitools #aitips #aiproductivity #entrepreneur #productivity
