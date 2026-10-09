@@ -1,4 +1,5 @@
 {
+  "output": {"carousel_dir": "aiflowed/tools/example_out/posts", "reel_dir": "aiflowed/tools/example_out/reels"},
   "carousel": {
     "handle": "@aiflowed",
     "slides": [

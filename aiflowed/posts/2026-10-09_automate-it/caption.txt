@@ -1,0 +1,17 @@
+If you do something twice, it's a candidate for automation.
+
+5 automations a one-person business can set up first:
+1. New lead > drafted reply
+2. Late invoice > polite reminder
+3. Every Friday > 5-bullet weekly summary
+4. Saved article > post idea
+5. New client > welcome message + checklist
+
+Same pattern every time: trigger, AI step, your review. Keep it as a draft, never auto-send.
+
+Tools like Zapier or Make can run flows like this. Check that your apps connect and what your plan allows.
+
+Comment 1 to 5: which one would save you the most time?
+Follow @aiflowed for daily AI workflows.
+
+#aiautomation #aiworkflow #automation #entrepreneur #solopreneur

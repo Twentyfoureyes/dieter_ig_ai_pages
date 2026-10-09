@@ -341,11 +341,23 @@ if __name__ == "__main__":
     if not a:
         raise SystemExit("Usage: python3 render.py SPEC.json [OUT_DIR] [--only carousel|reel]")
     spec = json.load(open(a[0]))
-    out = a[1] if len(a) > 1 else os.path.expanduser("~/aiflowed_out")
-    print(f"output folder: {out}")
+    repo = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".."))
+    stem = os.path.splitext(os.path.basename(a[0]))[0]
+    dirs = spec.get("output", {})
+
+    def resolve(p):
+        return os.path.expanduser(p) if os.path.isabs(os.path.expanduser(p)) else os.path.join(repo, p)
+
+    if len(a) > 1:
+        out = os.path.expanduser(a[1])
+        cdir, rdir = os.path.join(out, "posts"), os.path.join(out, "reels")
+    else:
+        cdir = resolve(dirs.get("carousel_dir", f"aiflowed/posts/{stem}"))
+        rdir = resolve(dirs.get("reel_dir", f"aiflowed/reels/{stem}"))
+    print(f"carousel folder: {cdir}\nreel folder: {rdir}")
     if "carousel" in spec and only in (None, "carousel"):
-        render_carousel(spec["carousel"], os.path.join(out, "posts"))
+        render_carousel(spec["carousel"], cdir)
     if "reel" in spec and only in (None, "reel"):
-        render_reel(spec["reel"], os.path.join(out, "reels"))
+        render_reel(spec["reel"], rdir)
     for w in WARN:
         print("WARNING:", w)

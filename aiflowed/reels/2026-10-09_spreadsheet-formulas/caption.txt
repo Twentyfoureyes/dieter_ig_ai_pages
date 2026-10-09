@@ -1,0 +1,12 @@
+Nobody should memorize VLOOKUP. Describe what you want and let AI write the formula.
+
+Try this prompt:
+"My sheet has Date in A, Client in B, Amount in C. Write a formula that adds up Amount for one client in one month. Explain it in one sentence and tell me which cell to paste it in."
+
+Also ask it to fix a broken formula, explain an old one or clean up messy columns.
+
+Test on a few rows first and use fake numbers, not client data.
+
+Follow @aiflowed for daily AI workflows.
+
+#aitools #aitips #aiproductivity #productivity #entrepreneur
