@@ -1,0 +1,115 @@
+{
+  "output": {
+    "carousel_dir": "aiflowed/posts/2026-10-11_meeting-prep",
+    "reel_dir": "aiflowed/reels/2026-10-11_ai-fact-check"
+  },
+  "carousel": {
+    "handle": "@aiflowed",
+    "slides": [
+      {
+        "type": "hook",
+        "headline": "Meeting tomorrow? Prep in 10 minutes.",
+        "badge": "5",
+        "badge_text": "steps to walk in prepared."
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "Googling them in the elevator",
+        "wrong_sub": "No goal. No questions. No plan.",
+        "right": "Give AI the context,\nget a prep sheet.",
+        "right_sub": "Goal, people, questions, risks."
+      },
+      {
+        "type": "step",
+        "number": 1,
+        "label": "Step 1",
+        "title": "Set the goal",
+        "sub": "Know what a win looks like",
+        "card": "I have a meeting with [who] about [topic]. Help me define one clear goal and 3 outcomes I want."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "label": "Step 2",
+        "title": "Know the person",
+        "sub": "Use what you actually know",
+        "card": "Here's what I know about [person/company]: [notes]. What do they likely care about? Mark guesses."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "label": "Step 3",
+        "title": "Prep questions",
+        "sub": "Questions beat talking",
+        "card": "Write 5 smart questions I can ask. Make 2 of them about their biggest risk or priority."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "label": "Step 4",
+        "title": "Expect pushback",
+        "sub": "Prepare before they object",
+        "card": "What objections might they raise? Give me a short, honest answer to each."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "label": "Step 5",
+        "title": "Plan the close",
+        "sub": "Leave with a next step",
+        "card": "Draft a 3-line closing: what we agreed, who does what, by when.",
+        "note": "Then add your own facts. AI can't know your history."
+      },
+      {
+        "type": "cta",
+        "headline": "Save this for Monday's meeting.",
+        "button": "Follow @aiflowed",
+        "sub": "Daily AI workflows for entrepreneurs."
+      }
+    ]
+  },
+  "reel": {
+    "handle": "@aiflowed",
+    "scenes": [
+      {
+        "type": "hook",
+        "headline": "AI sounds sure. Even when it's wrong.",
+        "sub": "Make it check itself.",
+        "seconds": 3
+      },
+      {
+        "type": "mistake",
+        "label": "THE RISK",
+        "wrong": "Trusting the first answer",
+        "sub": "Sounds sure. Not proof.",
+        "seconds": 5
+      },
+      {
+        "type": "prompt",
+        "title": "THE FOLLOW-UP",
+        "label": "COPY THIS",
+        "text": "List every claim in your answer. Mark each one: sure, unsure or guessed. Then tell me what I should double-check and where to find a source.",
+        "seconds": 12,
+        "steps": 6
+      },
+      {
+        "type": "checklist",
+        "title": "What you get",
+        "items": [
+          "Claims marked by certainty",
+          "A double-check list",
+          "Where to find sources"
+        ],
+        "footer": "Then check the ones that matter.",
+        "seconds": 7
+      },
+      {
+        "type": "cta",
+        "text": "What did AI get wrong for you?",
+        "note": "AI can misjudge its own certainty. Always check key facts.",
+        "seconds": 5
+      }
+    ]
+  }
+}
