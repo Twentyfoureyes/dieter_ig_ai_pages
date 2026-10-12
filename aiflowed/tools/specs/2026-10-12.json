@@ -1,0 +1,124 @@
+{
+  "output": {
+    "carousel_dir": "aiflowed/posts/2026-10-12_zapier-make-n8n",
+    "reel_dir": "aiflowed/reels/2026-10-12_review-insights"
+  },
+  "carousel": {
+    "handle": "@aiflowed",
+    "slides": [
+      {
+        "type": "hook",
+        "headline": "Zapier, Make or n8n? Start with the right one.",
+        "badge": "3",
+        "badge_text": "automation tools, compared."
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "Picking the most popular",
+        "wrong_sub": "The best tool is the one you will actually use.",
+        "right": "Pick by your skill\nand your task.",
+        "right_sub": "Be honest about your tech comfort."
+      },
+      {
+        "type": "step",
+        "number": 1,
+        "label": "Tool 1",
+        "title": "Zapier",
+        "sub": "Easiest to start",
+        "card_label": "QUICK VERDICT",
+        "card": "Best for: simple 'when this happens, do that' flows. Free plan: yes, with limits.",
+        "note": "Check the free plan limits first."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "label": "Tool 2",
+        "title": "Make",
+        "sub": "Visual, more control",
+        "card_label": "QUICK VERDICT",
+        "card": "Best for: flows with branches and more steps. Free plan: yes, with limits.",
+        "note": "Takes a bit longer to learn."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "label": "Tool 3",
+        "title": "n8n",
+        "sub": "Most control, more setup",
+        "card_label": "QUICK VERDICT",
+        "card": "Best for: people who want control. Free to self-host. Cloud is a trial, not free.",
+        "note": "Self-hosting means running a server."
+      },
+      {
+        "type": "list",
+        "title": "Quick pick guide",
+        "items": [
+          "Never automated before? Start with Zapier.",
+          "Want branches and visuals? Try Make.",
+          "Comfortable with servers? Try n8n.",
+          "Start with one simple flow first."
+        ]
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "label": "Bonus",
+        "title": "Let AI help pick",
+        "sub": "Describe your task",
+        "card_label": "PROMPT",
+        "card": "I do [task]. I'm [beginner/technical]. Which of Zapier, Make or n8n fits me, and why?",
+        "note": "Then check current plans on their sites."
+      },
+      {
+        "type": "cta",
+        "headline": "Which one would you start with?",
+        "button": "Follow @aiflowed",
+        "sub": "Comment Zapier, Make or n8n below."
+      }
+    ]
+  },
+  "reel": {
+    "handle": "@aiflowed",
+    "scenes": [
+      {
+        "type": "hook",
+        "headline": "Your reviews are free market research.",
+        "sub": "Let AI read them for you.",
+        "seconds": 3
+      },
+      {
+        "type": "mistake",
+        "label": "THE OLD WAY",
+        "wrong": "Skimming reviews, then forgetting",
+        "sub": "You miss the patterns.",
+        "seconds": 5
+      },
+      {
+        "type": "prompt",
+        "title": "THE PROMPT",
+        "label": "COPY THIS",
+        "text": "Here are 30 customer reviews and messages. Find the top 5 complaints and the top 5 things people love. Quote one short example for each. Then tell me the 3 fixes that would matter most. Ask me if anything is unclear.",
+        "seconds": 12,
+        "steps": 6
+      },
+      {
+        "type": "checklist",
+        "title": "What you get",
+        "items": [
+          "Top complaints, ranked",
+          "What people love",
+          "3 fixes to start with"
+        ],
+        "footer": "Check the quotes against the originals.",
+        "seconds": 7
+      },
+      {
+        "type": "cta",
+        "note": "Remove names and private details before you paste.",
+        "text": "Send this to someone who runs a business.",
+        "seconds": 5
+      }
+    ]
+  }
+}

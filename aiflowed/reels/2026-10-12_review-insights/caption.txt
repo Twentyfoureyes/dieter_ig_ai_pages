@@ -1,0 +1,11 @@
+Your customers already wrote your to-do list. You just have to read it all.
+
+Collect 20 to 30 reviews, emails or support messages. Remove names and private details, then paste them into this prompt:
+
+"Here are 30 customer reviews and messages. Find the top 5 complaints and the top 5 things people love. Quote one short example for each. Then tell me the 3 fixes that would matter most. Ask me if anything is unclear."
+
+Fix the complaints. Use the praise in your marketing. AI can misread tone, so check the quotes against the originals.
+
+Send this to someone who runs a business.
+
+#aiworkflow #aitips #entrepreneur #solopreneur #marketing

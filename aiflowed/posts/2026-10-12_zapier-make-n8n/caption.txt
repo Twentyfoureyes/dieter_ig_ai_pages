@@ -1,0 +1,15 @@
+Zapier, Make or n8n? The right one depends on you, not on the hype.
+
+Swipe for a quick guide:
+- Zapier: easiest to start
+- Make: visual, more control
+- n8n: most control, more setup
+
+All three can run simple automations like "new lead > drafted reply". Start with one boring task, build it, then decide if you need more.
+
+Plans change fast. At the time of writing, Zapier and Make have free plans and n8n is free to self-host (its cloud version is a trial). Check current plans before you pick.
+
+Comment Zapier, Make or n8n: which one would you start with?
+Follow @aiflowed for daily AI workflows.
+
+#aitools #aiautomation #automation #entrepreneur #solopreneur
