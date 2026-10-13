@@ -1,0 +1,14 @@
+If a process only exists in your head, you can't hand it off.
+
+Fix it in 5 minutes:
+1. Type or talk through how you do the task, step by step. Messy is fine.
+2. Paste it into your AI with this prompt:
+"Turn this into an SOP: purpose, numbered steps, tools used, common mistakes and a 5-item checklist. Ask me what's missing before you write."
+3. Answer its questions.
+4. Do the task once with the SOP and fix what's unclear.
+
+Remove client names and private details before you paste. AI only knows what you tell it, so read the SOP before you hand it to anyone.
+
+Follow @aiflowed for daily AI workflows.
+
+#aiworkflow #aitips #productivity #entrepreneur #solopreneur
