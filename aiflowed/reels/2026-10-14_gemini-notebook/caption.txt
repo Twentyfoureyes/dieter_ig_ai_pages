@@ -1,0 +1,12 @@
+Most chatbots answer from everything they've seen. Gemini Notebook (Google's tool, formerly NotebookLM) answers from the files you give it.
+
+Add a few documents, then ask:
+"Using only my sources: where do these 3 documents disagree? List each difference, which source says it, and what I should clarify with the client."
+
+Great for proposals, contracts, reports and research notes. It can also turn the same files into summaries and audio overviews.
+
+Still check key facts in the originals. Remove private details before you upload client files. Plans and limits change, so check what's free today.
+
+Save this for your next client project.
+
+#aitools #aiworkflow #aiproductivity #productivity #entrepreneur

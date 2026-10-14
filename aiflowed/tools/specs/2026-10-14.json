@@ -1,0 +1,116 @@
+{
+  "output": {
+    "carousel_dir": "aiflowed/posts/2026-10-14_price-check",
+    "reel_dir": "aiflowed/reels/2026-10-14_gemini-notebook"
+  },
+  "carousel": {
+    "handle": "@aiflowed",
+    "slides": [
+      {
+        "type": "hook",
+        "headline": "Undercharging? Let AI pressure-test your price.",
+        "badge": "5",
+        "badge_text": "steps to a price you can defend."
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "Asking: What should I charge?",
+        "wrong_sub": "AI guesses. It knows nothing about you.",
+        "right": "Give it numbers and real pages",
+        "right_sub": "Hours, goals, competitor prices"
+      },
+      {
+        "type": "step",
+        "number": 1,
+        "label": "Step 1",
+        "title": "Describe the offer",
+        "sub": "What, for whom, result",
+        "card": "I sell [service] to [client type]. They get [result]. List what is included and what is not."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "label": "Step 2",
+        "title": "Count your real time",
+        "sub": "Hours, tools, extras",
+        "card": "Estimate my true hours per project, including calls, revisions and admin. Ask me what I forgot."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "label": "Step 3",
+        "title": "Find your floor price",
+        "sub": "The lowest price that works",
+        "card": "I need [income] a month from [N] client hours a week. What is my minimum project price?"
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "label": "Step 4",
+        "title": "Check the market",
+        "sub": "Compare, don't guess",
+        "card": "Here are 3 competitor pricing pages. Compare their offers and prices to mine.",
+        "note": "Use real pages, not AI memory."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "label": "Step 5",
+        "title": "Offer 3 options",
+        "sub": "Basic, standard, premium",
+        "card": "Turn my offer into 3 packages: basic, standard, premium. Explain what each includes.",
+        "note": "The final price is your call."
+      },
+      {
+        "type": "cta",
+        "headline": "Send this to a friend who undercharges.",
+        "button": "Follow @aiflowed",
+        "sub": "Then follow for more."
+      }
+    ]
+  },
+  "reel": {
+    "handle": "@aiflowed",
+    "scenes": [
+      {
+        "type": "hook",
+        "headline": "AI that only answers from your files.",
+        "sub": "Formerly called NotebookLM",
+        "seconds": 3
+      },
+      {
+        "type": "mistake",
+        "label": "THE PROBLEM",
+        "wrong": "Chatbots sometimes guess.",
+        "sub": "Where did that come from?",
+        "seconds": 4
+      },
+      {
+        "type": "checklist",
+        "title": "Gemini Notebook",
+        "items": [
+          "Add PDFs, docs, web pages",
+          "Ask questions about them",
+          "Answers use your sources"
+        ],
+        "footer": "Websites and YouTube links work too",
+        "seconds": 6
+      },
+      {
+        "type": "prompt",
+        "title": "TRY THIS PROMPT",
+        "label": "COPY THIS",
+        "text": "Using only my sources: where do these 3 documents disagree? List each difference, which source says it, and what I should clarify with the client.",
+        "seconds": 11,
+        "steps": 6
+      },
+      {
+        "type": "cta",
+        "text": "Save this for your next client project.",
+        "note": "Remove private details before you upload client files.",
+        "seconds": 5
+      }
+    ]
+  }
+}
