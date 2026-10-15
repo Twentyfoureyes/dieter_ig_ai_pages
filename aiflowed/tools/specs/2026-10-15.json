@@ -1,0 +1,115 @@
+{
+  "output": {
+    "carousel_dir": "aiflowed/posts/2026-10-15_content-week",
+    "reel_dir": "aiflowed/reels/2026-10-15_screenshot-to-sheet"
+  },
+  "carousel": {
+    "handle": "@aiflowed",
+    "slides": [
+      {
+        "type": "hook",
+        "headline": "One idea can fill your content week.",
+        "badge": "5",
+        "badge_text": "steps with AI."
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "Give me 7 post ideas.",
+        "wrong_sub": "Generic ideas make generic posts. Nobody remembers them.",
+        "right": "Start from something\nyou really did.",
+        "right_sub": "Your real work is your best content."
+      },
+      {
+        "type": "step",
+        "number": 1,
+        "label": "Step 1",
+        "title": "Pick one real idea",
+        "sub": "Start from your work",
+        "card": "This week I learned: [idea]. Ask me 3 questions to find the best part of it."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "label": "Step 2",
+        "title": "Find 5 angles",
+        "sub": "One idea, five takes",
+        "card": "Give me 5 different angles on this idea: a mistake, a story, a how-to, a myth and a tip."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "label": "Step 3",
+        "title": "Pick the format",
+        "sub": "Same idea, new shape",
+        "card": "Write angle 2 as a 6-slide carousel outline and angle 4 as a 30-second Reel script."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "label": "Step 4",
+        "title": "Test 3 hooks",
+        "sub": "Win the first line",
+        "card": "Write 3 hooks for each post. Short, specific, no clichés. Mark your favorite."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "label": "Step 5",
+        "title": "Plan the week",
+        "sub": "Post, don't pile up",
+        "card": "Put these 5 posts in a table: day, format, hook and what the reader should do next.",
+        "note": "Read every draft. AI can't know your story."
+      },
+      {
+        "type": "cta",
+        "headline": "Save this for your content week.",
+        "button": "Follow @aiflowed",
+        "sub": "Daily AI workflows for entrepreneurs."
+      }
+    ]
+  },
+  "reel": {
+    "handle": "@aiflowed",
+    "scenes": [
+      {
+        "type": "hook",
+        "headline": "That screenshot is a spreadsheet.",
+        "sub": "Let AI read it for you.",
+        "seconds": 3
+      },
+      {
+        "type": "mistake",
+        "label": "THE SLOW WAY",
+        "wrong": "Retyping it cell by cell",
+        "sub": "Slow. Full of typos.",
+        "seconds": 5
+      },
+      {
+        "type": "prompt",
+        "title": "THE PROMPT",
+        "label": "UPLOAD + COPY THIS",
+        "text": "Turn this image into a table with columns: Date, Description, Amount. Keep the original order. Mark anything you can't read clearly with [?]. Don't guess numbers.",
+        "seconds": 11,
+        "steps": 6
+      },
+      {
+        "type": "checklist",
+        "title": "What you get",
+        "items": [
+          "A clean table",
+          "Unclear parts marked [?]",
+          "Ready to paste"
+        ],
+        "footer": "Check the numbers first.",
+        "seconds": 7
+      },
+      {
+        "type": "cta",
+        "note": "No IDs, bank details or client data.",
+        "text": "What would you screenshot first?",
+        "seconds": 5
+      }
+    ]
+  }
+}

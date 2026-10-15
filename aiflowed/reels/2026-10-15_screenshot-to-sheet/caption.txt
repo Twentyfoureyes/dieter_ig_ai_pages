@@ -1,0 +1,12 @@
+Stop retyping tables by hand. Take a screenshot instead.
+
+Upload a screenshot, or a photo of a receipt, invoice or whiteboard, to an AI assistant that can read images. Then use this prompt:
+"Turn this image into a table with columns: Date, Description, Amount. Keep the original order. Mark anything you can't read clearly with [?]. Don't guess numbers."
+
+Paste the result into your spreadsheet.
+
+Always check the numbers against the original, because AI can misread digits. Don't upload IDs, bank details or private client data.
+
+What would you screenshot first: a receipt, an invoice or a whiteboard?
+
+#aitools #aiworkflow #aiproductivity #productivity #entrepreneur
