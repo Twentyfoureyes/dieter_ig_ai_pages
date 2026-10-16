@@ -1,0 +1,116 @@
+{
+  "output": {
+    "carousel_dir": "aiflowed/posts/2026-10-16_ai-tool-test",
+    "reel_dir": "aiflowed/reels/2026-10-16_client-update"
+  },
+  "carousel": {
+    "handle": "@aiflowed",
+    "slides": [
+      {
+        "type": "hook",
+        "headline": "The 10-minute test for any AI tool.",
+        "badge": "5",
+        "badge_text": "checks before you pay."
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "Which tool is best?",
+        "wrong_sub": "Rankings can't know your work.",
+        "right": "Test it on your\nown real task.",
+        "right_sub": "Same task, same day."
+      },
+      {
+        "type": "step",
+        "number": 1,
+        "label": "Check 1",
+        "title": "Pick a real task",
+        "sub": "Use work from this week",
+        "card": "Choose one task you did this week. Write down how long it took you."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "label": "Check 2",
+        "title": "Run it and time it",
+        "sub": "Free plan or trial first",
+        "card": "Do the task with your real inputs. Did it beat your old way?",
+        "note": "Remove private client data first."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "label": "Check 3",
+        "title": "Beat the free option",
+        "sub": "Try a second tool",
+        "card": "Run the same task in a free tool. Which result needs less editing?"
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "label": "Check 4",
+        "title": "Read the fine print",
+        "sub": "Privacy and export",
+        "card": "Does it train on my data? Can I export my work? Can I cancel easily?",
+        "note": "Look in settings and the privacy page."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "label": "Check 5",
+        "title": "Set a cancel date",
+        "sub": "Before the trial ends",
+        "card": "Add a reminder 2 days before the trial ends. Keep it only if you used it."
+      },
+      {
+        "type": "cta",
+        "headline": "Which AI tool do you pay for?",
+        "button": "Follow @aiflowed",
+        "sub": "Save this before your next free trial."
+      }
+    ]
+  },
+  "reel": {
+    "handle": "@aiflowed",
+    "scenes": [
+      {
+        "type": "hook",
+        "headline": "Friday 4:45. Client wants an update.",
+        "sub": "Here's the 2-minute prompt.",
+        "seconds": 3
+      },
+      {
+        "type": "mistake",
+        "label": "THE SLOW WAY",
+        "wrong": "Writing it from scratch at 5 pm",
+        "sub": "Slow. You forget things.",
+        "seconds": 5
+      },
+      {
+        "type": "prompt",
+        "title": "THE PROMPT",
+        "label": "COPY THIS",
+        "text": "Here are my notes from this week: [paste]. Write a client update: what we finished, what's in progress, what I need from them, next week's plan. Friendly, under 120 words. Ask me if anything is unclear.",
+        "seconds": 12,
+        "steps": 6
+      },
+      {
+        "type": "checklist",
+        "title": "What you get",
+        "items": [
+          "Done this week",
+          "Next week's plan",
+          "What I need from you"
+        ],
+        "footer": "Read it. Then press send.",
+        "seconds": 7
+      },
+      {
+        "type": "cta",
+        "text": "Send this to a freelancer who hates updates.",
+        "note": "Remove private client details before you paste.",
+        "seconds": 5
+      }
+    ]
+  }
+}

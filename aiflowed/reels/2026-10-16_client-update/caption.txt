@@ -1,0 +1,10 @@
+Friday client updates take forever because you start from a blank page.
+
+Dump your notes into this prompt instead:
+"Here are my notes from this week: [paste]. Write a client update: what we finished, what's in progress, what I need from them, and next week's plan. Friendly, under 120 words. Ask me if anything is unclear."
+
+Messy notes are fine. Add one win you're proud of. AI only knows what you tell it, so read the update before you send it, and remove private details before you paste.
+
+Send this to a freelancer who hates writing updates.
+
+#aiworkflow #aiproductivity #solopreneur #freelance #productivity
