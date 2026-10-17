@@ -1,0 +1,116 @@
+{
+  "output": {
+    "carousel_dir": "aiflowed/posts/2026-10-17_angry-client",
+    "reel_dir": "aiflowed/reels/2026-10-17_video-transcript"
+  },
+  "carousel": {
+    "handle": "@aiflowed",
+    "slides": [
+      {
+        "type": "hook",
+        "headline": "Angry client email? Don't reply yet.",
+        "badge": "5",
+        "badge_text": "steps to a calm reply."
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "Reply while you're angry",
+        "wrong_sub": "You write what you feel, not what helps.",
+        "right": "Let AI cool it down first.",
+        "right_sub": "Then you choose the reply."
+      },
+      {
+        "type": "step",
+        "number": 1,
+        "label": "Step 1",
+        "title": "Find what they want",
+        "sub": "Look past the angry words",
+        "card": "Here is a client's email: [paste]. What do they actually want? What are they worried about?",
+        "note": "Remove names and private details first."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "label": "Step 2",
+        "title": "Check the facts",
+        "sub": "Before you answer",
+        "card": "List what they claim. Mark each: true, false or unclear, based on my notes. [paste notes]"
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "label": "Step 3",
+        "title": "Draft 3 replies",
+        "sub": "Choose your tone",
+        "card": "Write 3 replies: firm, friendly and a middle ground. Keep each under 100 words. No blame."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "label": "Step 4",
+        "title": "Find the fix",
+        "sub": "Offer one next step",
+        "card": "What is one concrete next step I can offer, with a date, that would calm this down?"
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "label": "Step 5",
+        "title": "Sound like you",
+        "sub": "Make it yours",
+        "card": "Rewrite this reply in my voice. Short sentences. Keep it calm. Remove anything defensive.",
+        "note": "Read it out loud. Then send it yourself."
+      },
+      {
+        "type": "cta",
+        "headline": "Know a freelancer? Send this.",
+        "button": "Follow @aiflowed",
+        "sub": "Daily AI workflows for entrepreneurs."
+      }
+    ]
+  },
+  "reel": {
+    "handle": "@aiflowed",
+    "scenes": [
+      {
+        "type": "hook",
+        "headline": "You saved that video. Never watched it.",
+        "sub": "Get the notes in 5 minutes.",
+        "seconds": 3
+      },
+      {
+        "type": "mistake",
+        "label": "THE OLD WAY",
+        "wrong": "Watching 2 hours at 2x speed",
+        "sub": "Still takes an hour.",
+        "seconds": 4
+      },
+      {
+        "type": "checklist",
+        "title": "Get the transcript",
+        "items": [
+          "Open the video description",
+          "Tap Show transcript",
+          "Copy all the text"
+        ],
+        "footer": "No transcript? Try a different video.",
+        "seconds": 6
+      },
+      {
+        "type": "prompt",
+        "title": "THE PROMPT",
+        "label": "COPY THIS",
+        "text": "Here is a video transcript. Give me the 5 key ideas, 3 things to try this week and any claims I should fact-check. Skip the intro and sponsor parts. Ask me if anything is unclear.",
+        "seconds": 11,
+        "steps": 6
+      },
+      {
+        "type": "cta",
+        "text": "Follow for Part 2: ask the video questions.",
+        "note": "Check key claims. Transcripts can contain errors.",
+        "seconds": 5
+      }
+    ]
+  }
+}
