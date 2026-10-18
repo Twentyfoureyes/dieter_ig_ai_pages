@@ -1,0 +1,15 @@
+You can ask a video questions. Most people just summarize it.
+
+Paste the transcript, then add this:
+"Using only this transcript: what does the speaker say about [topic]? Quote the line. If it isn't covered, say 'not in the video'. Then list what they skipped."
+
+Three follow-ups worth asking:
+- What did they skip or assume?
+- Where is the proof for the big claims?
+- What would I do on Monday?
+
+The "only this transcript" rule keeps AI from filling gaps from memory. Still check any claim that matters, and remove private details before you paste.
+
+Save this for the next long video.
+
+#aitools #aiworkflow #aitips #productivity #entrepreneur
