@@ -1,0 +1,15 @@
+Your AI forgets your business every time you open a new chat. Fix it once.
+
+Create a Project, then add:
+1. Instructions: who you serve, what you sell, your tone
+2. A few files: your price list, a good past email, your FAQ
+3. Start every chat for that work inside the Project
+
+Try this as the project instruction:
+"You help me run my [business]. My clients are [who]. Write in a [tone], short sentences. Use the files I added. If something is missing, ask me one question first."
+
+ChatGPT and Claude both have Projects. File limits depend on your plan, so check what yours allows today. Don't upload IDs, bank details or private client data.
+
+Follow @aiflowed for daily AI workflows.
+
+#aitools #aiworkflow #aiproductivity #entrepreneur #productivity

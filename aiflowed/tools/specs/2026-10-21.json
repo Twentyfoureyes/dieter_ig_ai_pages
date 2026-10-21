@@ -1,0 +1,120 @@
+{
+  "output": {
+    "carousel_dir": "aiflowed/posts/2026-10-21_landing-page",
+    "reel_dir": "aiflowed/reels/2026-10-21_ai-projects"
+  },
+  "carousel": {
+    "handle": "@aiflowed",
+    "slides": [
+      {
+        "type": "hook",
+        "headline": "A landing page is just 5 answers.",
+        "badge": "5",
+        "badge_text": "answers before you write.",
+        "kicker": "Then let AI draft it."
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "Write me a landing page",
+        "wrong_sub": "Generic copy. Sounds like everyone.",
+        "right": "Answer 5 questions first",
+        "right_sub": "Then let AI shape your words."
+      },
+      {
+        "type": "step",
+        "number": 1,
+        "label": "Answer 1",
+        "title": "Who is it for?",
+        "sub": "One reader, not everyone",
+        "card": "Describe my ideal client in 3 lines: their job, their problem, what they tried before.",
+        "note": "Use your client's real words."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "label": "Answer 2",
+        "title": "What do they get?",
+        "sub": "One clear result",
+        "card": "Turn my service into one promise: what changes for the client, in one sentence, no buzzwords.",
+        "note": "Results beat features."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "label": "Answer 3",
+        "title": "Why believe you?",
+        "sub": "Real proof only",
+        "card": "List the proof I can show: results, reviews, years of work. Ask me what is missing. Invent nothing.",
+        "note": "Never let AI invent proof."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "label": "Answer 4",
+        "title": "What holds them back?",
+        "sub": "Answer doubts early",
+        "card": "List 5 doubts a buyer has (price, time, trust). Write a short, honest answer to each.",
+        "note": "Use the doubts you really hear."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "label": "Answer 5",
+        "title": "What is the next step?",
+        "sub": "One button. One action",
+        "card": "Write 3 button texts with a short line under each. One action only: book, buy or ask.",
+        "note": "Change one thing at a time."
+      },
+      {
+        "type": "cta",
+        "headline": "Which answer is hardest?",
+        "button": "Follow @aiflowed",
+        "sub": "Tell us below. Daily AI workflows."
+      }
+    ]
+  },
+  "reel": {
+    "handle": "@aiflowed",
+    "scenes": [
+      {
+        "type": "hook",
+        "headline": "Your AI forgets your business.",
+        "sub": "Fix it once.",
+        "seconds": 3
+      },
+      {
+        "type": "mistake",
+        "label": "EVERY NEW CHAT",
+        "wrong": "New chat. Explain it all again.",
+        "sub": "Same intro. Every time.",
+        "seconds": 5
+      },
+      {
+        "type": "checklist",
+        "title": "Set up one Project",
+        "items": [
+          "Instructions: who + tone",
+          "Files: prices, FAQ, emails",
+          "Chats: all in one place"
+        ],
+        "footer": "Set it up once. Reuse daily.",
+        "seconds": 7
+      },
+      {
+        "type": "prompt",
+        "title": "PROJECT INSTRUCTIONS",
+        "label": "COPY THIS",
+        "text": "You help me run my [business]. My clients are [who]. Write in a [tone], short sentences. Use the files I added. If something is missing, ask me one question first.",
+        "seconds": 12,
+        "steps": 6
+      },
+      {
+        "type": "cta",
+        "text": "Follow @aiflowed for daily AI workflows.",
+        "note": "No private client data in Projects.",
+        "seconds": 5
+      }
+    ]
+  }
+}
