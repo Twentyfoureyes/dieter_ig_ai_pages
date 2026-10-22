@@ -1,0 +1,115 @@
+{
+  "output": {
+    "carousel_dir": "aiflowed/posts/2026-10-22_month-end-admin",
+    "reel_dir": "aiflowed/reels/2026-10-22_prompt-library"
+  },
+  "carousel": {
+    "handle": "@aiflowed",
+    "slides": [
+      {
+        "type": "hook",
+        "headline": "Month-end money admin: 20 minutes, not a weekend.",
+        "badge": "5",
+        "badge_text": "steps. Copy the prompts."
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "Upload the full bank statement",
+        "wrong_sub": "It has account numbers and names you don't need to share.",
+        "right": "Clean it first,\nshare only the list.",
+        "right_sub": "Dates, amounts and descriptions only."
+      },
+      {
+        "type": "step",
+        "number": 1,
+        "label": "Step 1",
+        "title": "Gather the numbers",
+        "sub": "One list, no private details",
+        "card": "Here is this month's income and expenses: [paste]. Tell me what looks missing or odd."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "label": "Step 2",
+        "title": "Sort your expenses",
+        "sub": "Same categories every month",
+        "card": "Sort these into: software, travel, marketing, other. Show a total per category."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "label": "Step 3",
+        "title": "Hidden subscriptions",
+        "sub": "Cancel what you don't use",
+        "card": "List every repeating charge. Flag any I might not use and show the yearly cost of each."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "label": "Step 4",
+        "title": "Chase unpaid invoices",
+        "sub": "Polite, short, specific",
+        "card": "Here are my unpaid invoices: [paste]. Draft a short, friendly reminder for each, oldest first."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "label": "Step 5",
+        "title": "Write the summary",
+        "sub": "5 lines you can read fast",
+        "card": "Write a 5-line summary of this month: income, biggest costs, what changed, what to do next.",
+        "note": "Check every number. Tax questions: ask a pro."
+      },
+      {
+        "type": "cta",
+        "headline": "Know someone who dreads month-end?",
+        "button": "Follow @aiflowed",
+        "sub": "Daily AI workflows for entrepreneurs."
+      }
+    ]
+  },
+  "reel": {
+    "handle": "@aiflowed",
+    "scenes": [
+      {
+        "type": "hook",
+        "headline": "You wrote the perfect prompt once.",
+        "sub": "Where is it now?",
+        "seconds": 3
+      },
+      {
+        "type": "mistake",
+        "label": "THE PROBLEM",
+        "wrong": "Scrolling old chats to find it",
+        "sub": "10 minutes, gone.",
+        "seconds": 5
+      },
+      {
+        "type": "checklist",
+        "title": "Build your library",
+        "items": [
+          "Pick your top 3 prompts",
+          "Name each, add [brackets]",
+          "Add one line: when to use"
+        ],
+        "footer": "One note. Copy, fill, send.",
+        "seconds": 8
+      },
+      {
+        "type": "prompt",
+        "title": "EXAMPLE ENTRY",
+        "label": "SAVE LIKE THIS",
+        "text": "Name: Customer reply\nUse when: a client asks for a quote\n\nDraft a reply to [email]. Tone: [friendly]. Keep it under [100] words. Ask me if anything is unclear.",
+        "seconds": 11,
+        "steps": 6
+      },
+      {
+        "type": "cta",
+        "text": "Save this and build yours today.",
+        "note": "Keep private data out of saved prompts.",
+        "seconds": 5
+      }
+    ]
+  }
+}

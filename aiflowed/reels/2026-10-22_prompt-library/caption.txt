@@ -1,0 +1,15 @@
+You wrote the perfect prompt once. Now it's buried in a chat from three weeks ago.
+
+Fix it in 5 minutes:
+1. Pick the 3 prompts you reuse most
+2. Put them in one note (Notes, Docs or Notion)
+3. Name each one and put [brackets] where the details change
+4. Add one line: when to use it
+
+Next time: copy, fill the brackets, send. Improve the prompt in your note whenever you find a better version.
+
+Keep client names and private data out of saved prompts.
+
+Save this and build your library today.
+
+#aiworkflow #aitips #aiproductivity #productivity #entrepreneur
