@@ -1,0 +1,12 @@
+Why ask the same thing every Monday? Ask once, and let ChatGPT run it for you.
+
+Try this:
+1. Open ChatGPT and describe the task and the time
+2. Use this prompt: "Every Monday at 8:00, send me a short briefing on [my industry]: 5 news items, why each matters for my business, and 1 idea to act on this week. Under 150 words."
+3. Check the first result and tweak the prompt
+
+Good for briefings, weekly check-ins and reminders. A scheduled task only knows what you put in the prompt, unless you connect apps. Availability and limits depend on your plan, so check what yours includes today.
+
+What would you schedule first? Tell me in the comments.
+
+#aitools #aiworkflow #aiproductivity #entrepreneur #productivity

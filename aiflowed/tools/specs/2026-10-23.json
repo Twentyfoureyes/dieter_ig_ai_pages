@@ -1,0 +1,116 @@
+{
+  "output": {
+    "carousel_dir": "aiflowed/posts/2026-10-23_read-your-numbers",
+    "reel_dir": "aiflowed/reels/2026-10-23_scheduled-tasks"
+  },
+  "carousel": {
+    "handle": "@aiflowed",
+    "slides": [
+      {
+        "type": "hook",
+        "headline": "Read your numbers in 10 minutes.",
+        "badge": "5",
+        "badge_text": "steps for your spreadsheet."
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "What do my numbers say?",
+        "wrong_sub": "Too vague. You get a bland summary and miss the real problem.",
+        "right": "Ask one specific\nquestion at a time.",
+        "right_sub": "Small questions give sharper answers."
+      },
+      {
+        "type": "step",
+        "number": 1,
+        "label": "Step 1",
+        "title": "Prep your data",
+        "sub": "Clean it first",
+        "card": "Columns: date, product, units, revenue. Here are the rows: [paste, no names or IDs]",
+        "note": "Remove names, emails and IDs first."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "label": "Step 2",
+        "title": "What changed?",
+        "sub": "Spot the trend",
+        "card": "Compare this month to last month. What went up, what went down, and by how much?"
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "label": "Step 3",
+        "title": "Find the odd ones",
+        "sub": "Catch what you'd miss",
+        "card": "Which rows look unusual or don't fit the pattern? List them and say why."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "label": "Step 4",
+        "title": "Ask for 3 actions",
+        "sub": "Turn numbers into moves",
+        "card": "Based on this, give me 3 actions for next week. Say which number backs each one."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "label": "Step 5",
+        "title": "Check the math",
+        "sub": "AI can slip on numbers",
+        "card": "List every figure you used and the formula to check it in my sheet.",
+        "note": "Never act on a number you haven't checked."
+      },
+      {
+        "type": "cta",
+        "headline": "Save this for your next review.",
+        "button": "Follow @aiflowed",
+        "sub": "Daily AI workflows for entrepreneurs."
+      }
+    ]
+  },
+  "reel": {
+    "handle": "@aiflowed",
+    "scenes": [
+      {
+        "type": "hook",
+        "headline": "Set it once.\nAI does it every Monday.",
+        "sub": "Scheduled tasks in ChatGPT.",
+        "seconds": 3
+      },
+      {
+        "type": "mistake",
+        "label": "THE OLD WAY",
+        "wrong": "Typing the same request weekly",
+        "sub": "Every. Single. Week.",
+        "seconds": 5
+      },
+      {
+        "type": "prompt",
+        "title": "THE PROMPT",
+        "label": "COPY THIS",
+        "text": "Every Monday at 8:00, send me a short briefing on [my industry]: 5 news items, why each matters for my business, and 1 idea to act on this week. Under 150 words.",
+        "seconds": 12,
+        "steps": 6
+      },
+      {
+        "type": "checklist",
+        "title": "What you get",
+        "items": [
+          "Runs without you",
+          "A notification on time",
+          "Easy to edit or stop"
+        ],
+        "footer": "Check the first result. Then tweak.",
+        "seconds": 7
+      },
+      {
+        "type": "cta",
+        "text": "What would you schedule first?",
+        "note": "Plan limits vary. Check what yours includes.",
+        "seconds": 5
+      }
+    ]
+  }
+}
