@@ -1,0 +1,124 @@
+{
+  "output": {
+    "carousel_dir": "aiflowed/posts/2026-10-24_built-in-ai",
+    "reel_dir": "aiflowed/reels/2026-10-24_rename-pdf"
+  },
+  "carousel": {
+    "handle": "@aiflowed",
+    "slides": [
+      {
+        "type": "hook",
+        "headline": "Before you buy another AI tool, look here first.",
+        "badge": "5",
+        "badge_text": "apps you already use."
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "Buy a new AI tool",
+        "wrong_sub": "Another login. Another bill. Another thing to learn.",
+        "right": "Look for the AI\nbutton first.",
+        "right_sub": "Many apps have one. Plans differ."
+      },
+      {
+        "type": "step",
+        "number": 1,
+        "label": "App 1",
+        "title": "Email and docs",
+        "sub": "Summarize and draft",
+        "card_label": "TRY THIS",
+        "card": "Summarize this thread in 3 bullets. List what I still owe each person.",
+        "note": "Look for the AI or sparkle button."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "label": "App 2",
+        "title": "Meetings",
+        "sub": "Notes without a new tool",
+        "card_label": "TRY THIS",
+        "card": "Turn this transcript into 3 decisions, tasks with owners and a short follow-up email.",
+        "note": "Check if your video app has recaps."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "label": "App 3",
+        "title": "Spreadsheets",
+        "sub": "Quick answers from your data",
+        "card_label": "TRY THIS",
+        "card": "Which rows look unusual in this table? Explain each in one sentence.",
+        "note": "Check every number before you act."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "label": "App 4",
+        "title": "Notes and wikis",
+        "sub": "Find what you already wrote",
+        "card_label": "TRY THIS",
+        "card": "List everything we decided about [client] and what is still open.",
+        "note": "Keep private notes out of it."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "label": "App 5",
+        "title": "Design",
+        "sub": "Resize and restyle faster",
+        "card_label": "TRY THIS",
+        "card": "Make 3 versions of this graphic: Instagram post, story and LinkedIn banner.",
+        "note": "Check the text and spelling."
+      },
+      {
+        "type": "cta",
+        "headline": "Which one first?",
+        "button": "Follow @aiflowed",
+        "sub": "Comment 1 to 5 below."
+      }
+    ]
+  },
+  "reel": {
+    "handle": "@aiflowed",
+    "scenes": [
+      {
+        "type": "hook",
+        "headline": "Never rename a PDF again.",
+        "sub": "Let an automation file it.",
+        "seconds": 3
+      },
+      {
+        "type": "mistake",
+        "label": "THE OLD WAY",
+        "wrong": "scan_final_v2 (1).pdf",
+        "sub": "Which client was this?",
+        "seconds": 5
+      },
+      {
+        "type": "checklist",
+        "title": "The flow",
+        "items": [
+          "1. New attachment arrives",
+          "2. AI picks the file name",
+          "3. Saved and logged"
+        ],
+        "footer": "One flow. Zero renaming.",
+        "seconds": 7
+      },
+      {
+        "type": "prompt",
+        "title": "THE AI STEP",
+        "label": "COPY THIS",
+        "text": "Read this document. Reply with only a file name: YYYY-MM-DD_Company_Type. Types: Invoice, Contract, Quote, Brief. If you're unsure about any part, write CHECK.",
+        "seconds": 12,
+        "steps": 6
+      },
+      {
+        "type": "cta",
+        "note": "Test on 10 files first. Skip anything private.",
+        "text": "Send this to someone who lives in Downloads.",
+        "seconds": 5
+      }
+    ]
+  }
+}

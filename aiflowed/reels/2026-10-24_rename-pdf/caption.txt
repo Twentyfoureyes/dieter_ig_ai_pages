@@ -1,0 +1,15 @@
+Your files shouldn't be named scan_final_v2 (1).pdf.
+
+Let an automation name and file every attachment for you:
+1. Trigger: a new email arrives with an attachment
+2. AI step: read the document and suggest a file name
+3. Action: save it in the right folder and add a row to a sheet
+
+Try this as the AI step:
+"Read this document. Reply with only a file name: YYYY-MM-DD_Company_Type. Types: Invoice, Contract, Quote, Brief. If you're unsure about any part, write CHECK."
+
+Zapier, Make and similar tools can do this. Steps and plans differ per tool, so check what yours offers. Test on 10 files first, and keep private documents out of it.
+
+Send this to someone who lives in their Downloads folder.
+
+#aiautomation #aiworkflow #automation #productivity #entrepreneur
