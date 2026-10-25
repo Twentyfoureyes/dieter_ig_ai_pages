@@ -1,0 +1,118 @@
+{
+  "output": {
+    "carousel_dir": "aiflowed/posts/2026-10-25_time-audit",
+    "reel_dir": "aiflowed/reels/2026-10-25_newsletter-digest"
+  },
+  "carousel": {
+    "handle": "@aiflowed",
+    "slides": [
+      {
+        "type": "hook",
+        "headline": "Where did your week go?\nAI can sort it.",
+        "badge": "5",
+        "badge_text": "prompts, 20 minutes."
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "\"I'm busy all week.\"",
+        "wrong_sub": "Without a list, you can't tell what to cut or hand off.",
+        "right": "List it. Sort it.\nFix one thing.",
+        "right_sub": "Fix the costliest task first."
+      },
+      {
+        "type": "step",
+        "number": 1,
+        "label": "Step 1",
+        "title": "List your week",
+        "sub": "Calendar and sent mail",
+        "card": "My tasks last week: [paste calendar, to-do list, sent emails]. Group similar ones."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "label": "Step 2",
+        "title": "Sort into 4 buckets",
+        "sub": "Delete, automate, delegate, keep",
+        "card": "Sort each task: delete, automate, delegate or keep. Give one reason per task.",
+        "note": "Be strict. Keep is for work only you can do."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "label": "Step 3",
+        "title": "Find the quick win",
+        "sub": "Big time, little effort",
+        "card": "Which 3 tasks cost the most time and are easiest to automate or hand off?",
+        "note": "Start with one. Not all three."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "label": "Step 4",
+        "title": "Plan the first fix",
+        "sub": "Tool, steps, setup time",
+        "card": "Write a simple plan to automate [task]. Tools I already use: [list]. Max 5 steps.",
+        "note": "Use tools you already have."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "label": "Step 5",
+        "title": "Check and repeat",
+        "sub": "Review in 2 weeks",
+        "card": "Here is what I changed: [list]. What should I measure to see if it saved time?",
+        "note": "Time saved is a guess until you track it."
+      },
+      {
+        "type": "cta",
+        "headline": "Send this to someone\nwho's always busy.",
+        "button": "Follow @aiflowed",
+        "sub": "AI sorts it. You decide what to cut."
+      }
+    ]
+  },
+  "reel": {
+    "handle": "@aiflowed",
+    "scenes": [
+      {
+        "type": "hook",
+        "headline": "Nobody reads 20 newsletters.",
+        "sub": "One Friday digest instead.",
+        "seconds": 3
+      },
+      {
+        "type": "mistake",
+        "label": "THE PILE",
+        "wrong": "47 unread newsletters",
+        "sub": "Saved to read later.",
+        "seconds": 5
+      },
+      {
+        "type": "prompt",
+        "title": "THE AI STEP",
+        "label": "COPY THIS",
+        "text": "Here are this week's newsletters. Write a digest: 5 key ideas, 3 worth reading in full (and why), 1 idea I can use this week. Skip ads and repeats. Under 200 words.",
+        "seconds": 12,
+        "steps": 6
+      },
+      {
+        "type": "checklist",
+        "title": "Your automation",
+        "items": [
+          "Trigger: every Friday 8:00",
+          "AI step: write the digest",
+          "Action: email it to you"
+        ],
+        "footer": "Test it on 5 newsletters first.",
+        "seconds": 7
+      },
+      {
+        "type": "cta",
+        "note": "AI summarizes. You decide what matters.",
+        "text": "Follow for Part 2: digest to action list.",
+        "seconds": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+20 newsletters, zero read. Let AI read them and send you one digest every Friday.
+
+How it works:
+1. Trigger: every Friday at 8:00
+2. AI step: write a digest of the week's newsletters
+3. Action: email it to yourself
+
+Try this as the AI step:
+"Here are this week's newsletters. Write a digest: 5 key ideas, 3 worth reading in full (and why), 1 idea I can use this week. Skip ads and repeats. Under 200 words."
+
+No automation yet? Paste them in by hand once a week. Zapier, Make and similar tools can collect emails for you, but steps and plans differ per tool, so check what yours offers. AI can miss details: open the original before you act on anything.
+
+Follow for Part 2: turning the digest into an action list.
+
+#aiautomation #aiproductivity #productivity #entrepreneur #aitips
