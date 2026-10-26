@@ -1,0 +1,16 @@
+You read the digest. Then Monday arrives and nothing changed.
+
+Turn it into actions in 2 minutes:
+1. Paste your Friday digest
+2. Ask for 3 actions of max 15 minutes each
+3. Ask what to ignore on purpose
+4. Put the actions in your task list or calendar
+
+Try this:
+"Here is my weekly digest. Give me 3 actions I can do in 15 minutes or less, what I need for each, and when to do it. Then name 1 thing I can safely ignore."
+
+AI can miss details, so open the original before you act. Keep private data out of the prompt.
+
+Save this for your next Friday digest.
+
+#aiworkflow #aiproductivity #aiautomation #entrepreneur #productivity

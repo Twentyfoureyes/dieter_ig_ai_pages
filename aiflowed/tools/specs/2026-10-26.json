@@ -1,0 +1,118 @@
+{
+  "output": {
+    "carousel_dir": "aiflowed/posts/2026-10-26_match-the-tool",
+    "reel_dir": "aiflowed/reels/2026-10-26_digest-to-actions"
+  },
+  "carousel": {
+    "handle": "@aiflowed",
+    "slides": [
+      {
+        "type": "hook",
+        "headline": "Stop using one AI for everything.",
+        "badge": "5",
+        "badge_text": "jobs. 5 types of AI tool."
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "Ask a chatbot today's prices",
+        "wrong_sub": "It may guess, and it can sound sure while being wrong.",
+        "right": "Use AI with search.\nCheck the source.",
+        "right_sub": "Facts need sources you can open."
+      },
+      {
+        "type": "step",
+        "number": 1,
+        "label": "Job 1",
+        "title": "Writing and thinking",
+        "sub": "Use a chat assistant",
+        "card": "Draft a reply to this client email in a friendly, short tone. Ask me 1 question first."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "label": "Job 2",
+        "title": "Facts with sources",
+        "sub": "Use AI with web search",
+        "card": "Find 3 sources on [topic]. Give me each link and one line on what it says.",
+        "note": "Open the links. Don't trust the summary alone."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "label": "Job 3",
+        "title": "Your own documents",
+        "sub": "Use a files-only tool",
+        "card": "Answer only from these files. Quote the line, or say 'not in the files'.",
+        "note": "Good for contracts, reports and notes."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "label": "Job 4",
+        "title": "Meetings",
+        "sub": "Use an AI note-taker",
+        "card": "Summarize this transcript: decisions, tasks with owners, and open questions.",
+        "note": "Ask people before you record."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "label": "Job 5",
+        "title": "Repeat tasks",
+        "sub": "Use an automation tool",
+        "card": "Trigger: new form entry. AI step: draft a reply. Action: save it as a draft.",
+        "card_label": "AUTOMATION",
+        "note": "Review before anything is sent."
+      },
+      {
+        "type": "cta",
+        "headline": "Which job do you use AI for most?",
+        "sub": "Tell me in the comments."
+      }
+    ]
+  },
+  "reel": {
+    "handle": "@aiflowed",
+    "scenes": [
+      {
+        "type": "hook",
+        "headline": "A digest nobody acts on is just email.",
+        "sub": "Part 2: digest to actions.",
+        "seconds": 3
+      },
+      {
+        "type": "mistake",
+        "label": "PART 2 · NEWSLETTER SERIES",
+        "wrong": "Read it Friday. Forget it Monday.",
+        "sub": "Nothing changes.",
+        "seconds": 5
+      },
+      {
+        "type": "prompt",
+        "title": "THE PROMPT",
+        "label": "COPY THIS",
+        "text": "Here is my weekly digest. Give me 3 actions I can do in 15 minutes or less, what I need for each, and when to do it. Then name 1 thing I can safely ignore.",
+        "seconds": 12,
+        "steps": 6
+      },
+      {
+        "type": "checklist",
+        "title": "What you get",
+        "items": [
+          "3 small actions",
+          "What you need for each",
+          "1 thing to ignore"
+        ],
+        "footer": "Then add them to your calendar.",
+        "seconds": 7
+      },
+      {
+        "type": "cta",
+        "text": "Save this for your next Friday digest.",
+        "note": "Check the original before you act. No private data.",
+        "seconds": 5
+      }
+    ]
+  }
+}
