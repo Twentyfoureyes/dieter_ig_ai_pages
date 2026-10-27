@@ -1,0 +1,16 @@
+Imagine your project already failed. Why?
+
+Ask AI before you launch:
+1. Describe your plan in 3 lines
+2. Say it failed, and ask for the 5 most likely reasons
+3. For each one: what can I fix now?
+4. Pick the one to test first
+
+Try this:
+"It's 6 months from now and this plan failed. Here is the plan: [plan]. Give me the 5 most likely reasons, what I can do now about each, and which one I should test first."
+
+AI only guesses from what you tell it. Use it to spot blind spots, then check with real people. Keep private data out of the prompt.
+
+What would you pre-mortem first? Tell me in the comments.
+
+#aiworkflow #aitips #aiproductivity #entrepreneur #productivity

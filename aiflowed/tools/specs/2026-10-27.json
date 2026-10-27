@@ -1,0 +1,116 @@
+{
+  "output": {
+    "carousel_dir": "aiflowed/posts/2026-10-27_scope-creep",
+    "reel_dir": "aiflowed/reels/2026-10-27_pre-mortem"
+  },
+  "carousel": {
+    "handle": "@aiflowed",
+    "slides": [
+      {
+        "type": "hook",
+        "headline": "A client asked for 'one small extra'.",
+        "kicker": "BEFORE YOU SAY YES",
+        "badge": "5",
+        "badge_text": "steps to handle it."
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "Sure, no problem!",
+        "wrong_sub": "Free extras become the new normal. Then the next one arrives.",
+        "right": "Check the scope.\nThen answer.",
+        "right_sub": "Say yes with a price, or swap."
+      },
+      {
+        "type": "step",
+        "number": 1,
+        "label": "Step 1",
+        "title": "Check the deal",
+        "sub": "What did you agree?",
+        "card": "Here is my agreement: [paste]. Is this request inside or outside it? Quote the lines."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "label": "Step 2",
+        "title": "Count the extra",
+        "sub": "Hours, not feelings",
+        "card": "Estimate the extra work for this request in hours (low and high). List what it includes."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "label": "Step 3",
+        "title": "Draft 3 replies",
+        "sub": "Yes with a price, swap, or no",
+        "card": "Write 3 short replies: yes with a price, a swap, or a polite no. Friendly, firm."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "label": "Step 4",
+        "title": "Put it in writing",
+        "sub": "A short change note",
+        "card": "Turn the chosen reply into a change note: what's added, price, new deadline. 5 lines max."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "label": "Step 5",
+        "title": "Update the brief",
+        "sub": "So it doesn't repeat",
+        "card": "Update the original brief with this change. Show only what changed, so I can send it.",
+        "note": "Not legal advice. Check your contract."
+      },
+      {
+        "type": "cta",
+        "headline": "Save this for your next 'quick favor.'",
+        "button": "Follow @aiflowed",
+        "sub": "Daily AI workflows for entrepreneurs."
+      }
+    ]
+  },
+  "reel": {
+    "handle": "@aiflowed",
+    "scenes": [
+      {
+        "type": "hook",
+        "headline": "Imagine it already failed.",
+        "sub": "Then ask AI why.",
+        "seconds": 3
+      },
+      {
+        "type": "mistake",
+        "label": "THE MISTAKE",
+        "wrong": "Is my plan good?",
+        "sub": "AI says yes. Always.",
+        "seconds": 5
+      },
+      {
+        "type": "prompt",
+        "title": "THE PRE-MORTEM",
+        "label": "COPY THIS",
+        "text": "It's 6 months from now and this plan failed. Plan: [your plan]. Give me the 5 most likely reasons, what I can do now about each, and which one I should test first.",
+        "seconds": 12,
+        "steps": 6
+      },
+      {
+        "type": "checklist",
+        "title": "What you get",
+        "items": [
+          "5 likely reasons it fails",
+          "A fix for each one",
+          "The first thing to test"
+        ],
+        "footer": "Fix it before it costs you.",
+        "seconds": 7
+      },
+      {
+        "type": "cta",
+        "text": "What would you pre-mortem first?",
+        "note": "Comment below. Keep private data out of the prompt.",
+        "seconds": 5
+      }
+    ]
+  }
+}
