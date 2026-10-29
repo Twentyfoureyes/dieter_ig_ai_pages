@@ -1,0 +1,15 @@
+Chasing invoices is awkward. A good reminder doesn't have to be.
+
+Three reminders, three tones:
+- Day 1: friendly
+- Day 7: clear
+- Day 14: firm
+
+Try this:
+"Write 3 payment reminders for invoice [nr], due [date], now [X] days late: friendly, clear, firm. Max 80 words each. Include the invoice number and amount. No threats."
+
+Check your payment terms and local rules, and read every email before you send it. Keep private details out of the prompt.
+
+Save this for the next late invoice.
+
+#aiworkflow #aitips #aiproductivity #entrepreneur #solopreneur
